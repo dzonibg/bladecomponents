@@ -1,0 +1,19 @@
+{
+    "name": "nikola/bladecomponents",
+    "description": "Bootstrap components for Blade views reusability.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nikola",
+            "email": "nidza.bg@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "dzonibg\\bladecomponents\\" : "src/"
+        }
+    },
+    "require": {}
+}
