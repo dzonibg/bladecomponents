@@ -10,7 +10,7 @@
 
 <body >
 <nav class="navbar navbar-expand-md navbar-light">
-    <div class="container"> <a class="navbar-brand text-primary" href="#">
+    <div class="container"> <a class="navbar-brand text-secondary" href="#">
             <i class="fa d-inline fa-lgfa fa-eercast"></i>
             <b> BRAND</b>
         </a> <button class="navbar-toggler navbar-toggler-right border-0" type="button" data-toggle="collapse" data-target="#navbar4">
