@@ -1,5 +1,5 @@
 {
-    "name": "nikola/bladecomponents",
+    "name": "dzonibg/bladecomponents",
     "description": "Bootstrap components for Blade views reusability.",
     "type": "project",
     "license": "MIT",
